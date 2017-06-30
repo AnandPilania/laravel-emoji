@@ -1,0 +1,22 @@
+{
+    "name": "anandpilania/laravel-emoji",
+    "description": "UNICODE Emoji.",
+	"keywords": ["laravel", "anandpilania", "emoji"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Anand Pilania",
+            "email": "pilaniaanand@gmail.com"
+        }
+    ],
+	"minimum-stability": "stable",
+    "require": {
+      "php": ">5.*"
+	},
+	"autoload": {
+        "psr-4": {
+            "AP\\Emoji\\": ""
+        }
+    },
+	"suggest": {}
+}
